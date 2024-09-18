@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Counter from './Counter';  // Importar el componente Counter
+import Counter from './Counter';  
 
 function App() {
   return (
     <div className="App">
-      <Counter />  {/* Renderizar el componente Counter */}
+      <Counter />  {}
     </div>
   );
 }

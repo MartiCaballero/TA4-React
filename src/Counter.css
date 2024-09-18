@@ -18,17 +18,17 @@
   }
   
   .counter button:nth-child(2) {
-    background-color: #28a745;
+    background-color: #648d6d;
     color: white;
   }
   
   .counter button:nth-child(3) {
-    background-color: #ffc107;
+    background-color: #eed68d;
     color: white;
   }
   
   .counter button:nth-child(4) {
-    background-color: #dc3545;
+    background-color: #582439;
     color: white;
   }
   
